@@ -1,0 +1,6 @@
+matplotlib
+fastai
+pathlib
+pandas
+pillow
+numpy
