@@ -1,6 +1,4 @@
 data
 venv
 model
-test.ipynb
 .gitignore
-.ipynb_checkpoints
