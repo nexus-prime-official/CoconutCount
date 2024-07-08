@@ -3,3 +3,4 @@ venv
 model
 .ipynb_checkpoints
 .gitignore
+output.txt
