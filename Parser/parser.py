@@ -12,8 +12,8 @@ try:
     image_array = np.array(tiff_image)
     
     # Define the size of the smaller parts
-    part_height = 100  # Height of each part
-    part_width = 100   # Width of each part
+    part_height = 224  # Height of each part
+    part_width = 224   # Width of each part
 
     # Get the dimensions of the image
     height, width = image_array.shape[:2]
